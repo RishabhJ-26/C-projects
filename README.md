@@ -35,4 +35,4 @@
 
 ---
 
-### Follow Rishabh for more: [https://github.com/RishabhJ-26](https://github.com/RishabhJ-26)
+### Follow Rishabh for more: [Rishabh Jain](https://github.com/RishabhJ-26)
