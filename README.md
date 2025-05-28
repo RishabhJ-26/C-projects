@@ -1,6 +1,5 @@
 # C-Projects
 
-  ![4 4](https://github.com/KG-Coding-with-Prashant-Sir/C-Projects/assets/102736197/381b9f2b-1efb-487e-8bea-be0fdfb8e6eb)
 
 ## 10. Kaun Banega Corerepati
   <img width="1129" alt="Screenshot 2024-04-25 at 5 26 43 PM" src="https://github.com/KG-Coding-with-Prashant-Sir/C-Projects/assets/102736197/6ce75699-f6a0-4567-8275-d1a88cd06ded">
@@ -32,3 +31,8 @@
   
 ## 1. Number Guessing Game
   <img width="2270" alt="Screenshot 2024-04-20 at 9 55 12 AM" src="https://github.com/KG-Coding-with-Prashant-Sir/C-Projects/assets/102736197/4f082219-8ecd-4823-9f0f-cc7e88013652">
+
+
+---
+
+### Follow Rishabh for more: [https://github.com/RishabhJ-26](https://github.com/RishabhJ-26)
